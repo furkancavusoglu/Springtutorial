@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "greeting",
+      "type": "com.boot.book.book.demo.Greeting",
+      "sourceType": "com.boot.book.book.demo.Greeting"
+    }
+  ],
+  "properties": [
+    {
+      "name": "greeting.coffee",
+      "type": "java.lang.String",
+      "sourceType": "com.boot.book.book.demo.Greeting"
+    },
+    {
+      "name": "greeting.name",
+      "type": "java.lang.String",
+      "sourceType": "com.boot.book.book.demo.Greeting"
+    }
+  ],
+  "hints": []
+}
